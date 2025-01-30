@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @winterdor
-- 👀 I’m interested in programming, art and android;
-- 🌱 I’m currently learning Kotlin and Python;
+- 👀 I’m interested in programming, art and tests;
+- 🌱 I’m currently learning Selenium;
 - 💞️ I’m looking to collaborate on I'm looking to collaborate on questions and challenges;
 - Eager to emerge in this world of programming.
 
